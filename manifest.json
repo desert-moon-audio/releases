@@ -1,0 +1,13 @@
+{
+  "dino-roar":            { "version": "1.0.0", "url": "https://github.com/desert-moon-audio/releases/releases/download/dino-roar-v1.0.0/Dino-Roar-1.0.0.pkg" },
+  "coil":                 { "version": "1.0.0", "url": "https://github.com/desert-moon-audio/releases/releases/download/coil-v1.0.0/Coil-1.0.0.pkg" },
+  "analog-tape-enhancer": { "version": "1.0.0", "url": "https://github.com/desert-moon-audio/releases/releases/download/analog-tape-enhancer-v1.0.0/ZuluTape-1.0.0.pkg" },
+  "echo-thing":           { "version": "1.0.0", "url": "https://github.com/desert-moon-audio/releases/releases/download/echo-thing-v1.0.0/EchoMaster-1.0.0.pkg" },
+  "air-enhancer":         { "version": "1.0.0", "url": "https://github.com/desert-moon-audio/releases/releases/download/air-enhancer-v1.0.0/AirEnhancer-1.0.0.pkg" },
+  "plate-daddy":          { "version": "1.0.0", "url": "https://github.com/desert-moon-audio/releases/releases/download/plate-daddy-v1.0.0/PlateDaddy-1.0.0.pkg" },
+  "nebraska-144":         { "version": "1.0.0", "url": "https://github.com/desert-moon-audio/releases/releases/download/nebraska-144-v1.0.0/Nebraska144-1.0.0.pkg" },
+  "palette":              { "version": "1.0.0", "url": "https://github.com/desert-moon-audio/releases/releases/download/palette-v1.0.0/Palette-1.0.0.pkg" },
+  "vu-meter":             { "version": "1.0.0", "url": "https://github.com/desert-moon-audio/releases/releases/download/vu-meter-v1.0.0/VuMeter-1.0.0.pkg" },
+  "meat-shop":            { "version": "1.0.0", "url": "https://github.com/desert-moon-audio/releases/releases/download/meat-shop-v1.0.0/MeatShop-1.0.0.pkg" },
+  "cloud-seven":          { "version": "1.0.0", "url": "https://github.com/desert-moon-audio/releases/releases/download/cloud-seven-v1.0.0/CloudSeven-1.0.0.pkg" }
+}
