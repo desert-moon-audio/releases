@@ -5,8 +5,9 @@
     "url_win": "https://github.com/desert-moon-audio/releases/releases/download/dino-roar-v1.0.1/DinoRoar-1.0.1-Windows.exe"
   },
   "coil": {
-    "version": "1.0.0",
-    "url": "https://github.com/desert-moon-audio/releases/releases/download/coil-v1.0.0/Coil-1.0.0.pkg"
+    "version": "1.0.1",
+    "url": "https://github.com/desert-moon-audio/releases/releases/download/coil-v1.0.1/Coil-1.0.1.pkg",
+    "url_win": "https://github.com/desert-moon-audio/releases/releases/download/coil-v1.0.1/Coil-1.0.1-Windows.exe"
   },
   "analog-tape-enhancer": {
     "version": "1.0.1",
