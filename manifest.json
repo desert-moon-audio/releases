@@ -30,11 +30,13 @@
   },
   "nebraska-144": {
     "version": "1.0.1",
-    "url": "https://github.com/desert-moon-audio/releases/releases/download/nebraska-144-v1.0.1/Nebraska144-1.0.1.pkg"
+    "url": "https://github.com/desert-moon-audio/releases/releases/download/nebraska-144-v1.0.1/Nebraska144-1.0.1.pkg",
+    "url_win": "https://github.com/desert-moon-audio/releases/releases/download/nebraska-144-v1.0.1/Nebraska144-1.0.1-Windows.exe"
   },
   "palette": {
     "version": "1.0.1",
-    "url": "https://github.com/desert-moon-audio/releases/releases/download/palette-v1.0.1/Palette-1.0.1.pkg"
+    "url": "https://github.com/desert-moon-audio/releases/releases/download/palette-v1.0.1/Palette-1.0.1.pkg",
+    "url_win": "https://github.com/desert-moon-audio/releases/releases/download/palette-v1.0.1/Palette-1.0.1-Windows.exe"
   },
   "vu-meter": {
     "version": "1.0.1",
