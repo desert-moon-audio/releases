@@ -55,8 +55,8 @@
     "url_win": "https://github.com/desert-moon-audio/releases/releases/download/cloud-seven-v1.0.1/CloudSeven-1.0.1-Windows.exe"
   },
   "optotron": {
-    "version": "1.0.0",
-    "url": "https://github.com/desert-moon-audio/releases/releases/download/optotron-v1.0.0/Optotron-1.0.0.pkg",
-    "url_win": "https://github.com/desert-moon-audio/releases/releases/download/optotron-v1.0.0/Optotron-1.0.0-Windows.exe"
+    "version": "1.0.1",
+    "url": "https://github.com/desert-moon-audio/releases/releases/download/optotron-v1.0.1/Optotron-1.0.1.pkg",
+    "url_win": "https://github.com/desert-moon-audio/releases/releases/download/optotron-v1.0.1/Optotron-1.0.1-Windows.exe"
   }
 }
