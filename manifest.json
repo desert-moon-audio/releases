@@ -1,8 +1,7 @@
 {
   "dino-roar": {
-    "version": "1.0.1",
-    "url": "https://github.com/desert-moon-audio/releases/releases/download/dino-roar-v1.0.1/Dino-Roar-1.0.1.pkg",
-    "url_win": "https://github.com/desert-moon-audio/releases/releases/download/dino-roar-v1.0.1/DinoRoar-1.0.1-Windows.exe"
+    "version": "1.0.2",
+    "url": "https://github.com/desert-moon-audio/releases/releases/download/dino-roar-v1.0.2/Dino-Roar-1.0.2.pkg"
   },
   "coil": {
     "version": "1.0.1",
