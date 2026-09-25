@@ -1,35 +1,35 @@
 {
  "dino-roar": {
-  "version": "1.0.6",
-  "url": "https://github.com/desert-moon-audio/releases/releases/download/dino-roar-v1.0.6/Dino-Roar.1.0.6.zip"
+  "version": "1.0.7",
+  "url": "https://github.com/desert-moon-audio/releases/releases/download/dino-roar-v1.0.7/Dino-Roar.1.0.7.zip"
  },
  "coil": {
-  "version": "1.0.4",
-  "url": "https://github.com/desert-moon-audio/releases/releases/download/coil-v1.0.4/Coil.1.0.4.zip"
+  "version": "1.0.5",
+  "url": "https://github.com/desert-moon-audio/releases/releases/download/coil-v1.0.5/Coil.1.0.5.zip"
  },
  "analog-tape-enhancer": {
-  "version": "1.0.5",
-  "url": "https://github.com/desert-moon-audio/releases/releases/download/analog-tape-enhancer-v1.0.5/Analog.Tape.Enhancer.1.0.5.zip"
+  "version": "1.0.6",
+  "url": "https://github.com/desert-moon-audio/releases/releases/download/analog-tape-enhancer-v1.0.6/Analog.Tape.Enhancer.1.0.6.zip"
  },
  "echo-thing": {
-  "version": "1.0.5",
-  "url": "https://github.com/desert-moon-audio/releases/releases/download/echo-thing-v1.0.5/Echo.Thing.1.0.5.zip"
+  "version": "1.0.6",
+  "url": "https://github.com/desert-moon-audio/releases/releases/download/echo-thing-v1.0.6/Echo.Thing.1.0.6.zip"
  },
  "air-enhancer": {
-  "version": "1.0.5",
-  "url": "https://github.com/desert-moon-audio/releases/releases/download/air-enhancer-v1.0.5/Air.Enhancer.1.0.5.zip"
+  "version": "1.0.6",
+  "url": "https://github.com/desert-moon-audio/releases/releases/download/air-enhancer-v1.0.6/Air.Enhancer.1.0.6.zip"
  },
  "plate-daddy": {
-  "version": "1.0.4",
-  "url": "https://github.com/desert-moon-audio/releases/releases/download/plate-daddy-v1.0.4/Plate.Daddy.1.0.4.zip"
+  "version": "1.0.5",
+  "url": "https://github.com/desert-moon-audio/releases/releases/download/plate-daddy-v1.0.5/Plate.Daddy.1.0.5.zip"
  },
  "nebraska-144": {
-  "version": "1.0.5",
-  "url": "https://github.com/desert-moon-audio/releases/releases/download/nebraska-144-v1.0.5/Nebraska.144.1.0.5.zip"
+  "version": "1.0.6",
+  "url": "https://github.com/desert-moon-audio/releases/releases/download/nebraska-144-v1.0.6/Nebraska.144.1.0.6.zip"
  },
  "palette": {
-  "version": "1.0.5",
-  "url": "https://github.com/desert-moon-audio/releases/releases/download/palette-v1.0.5/Palette.1.0.5.zip"
+  "version": "1.0.6",
+  "url": "https://github.com/desert-moon-audio/releases/releases/download/palette-v1.0.6/Palette.1.0.6.zip"
  },
  "vu-meter": {
   "version": "1.0.5",
@@ -40,15 +40,23 @@
   "url": "https://github.com/desert-moon-audio/releases/releases/download/meat-shop-v1.0.5/Meat.Shop.1.0.5.zip"
  },
  "cloud-seven": {
-  "version": "1.0.4",
-  "url": "https://github.com/desert-moon-audio/releases/releases/download/cloud-seven-v1.0.4/Cloud.Seven.1.0.4.zip"
+  "version": "1.0.5",
+  "url": "https://github.com/desert-moon-audio/releases/releases/download/cloud-seven-v1.0.5/Cloud.Seven.1.0.5.zip"
  },
  "optotron": {
-  "version": "1.0.5",
-  "url": "https://github.com/desert-moon-audio/releases/releases/download/optotron-v1.0.5/Optotron.1.0.5.zip"
+  "version": "1.0.6",
+  "url": "https://github.com/desert-moon-audio/releases/releases/download/optotron-v1.0.6/Optotron.1.0.6.zip"
  },
  "pushpull": {
-  "version": "1.0.5",
-  "url": "https://github.com/desert-moon-audio/releases/releases/download/pushpull-v1.0.5/Push.Pull.1.0.5.zip"
+  "version": "1.0.6",
+  "url": "https://github.com/desert-moon-audio/releases/releases/download/pushpull-v1.0.6/Push.Pull.1.0.6.zip"
+ },
+ "trans-box": {
+  "version": "1.0.0",
+  "url": "https://github.com/desert-moon-audio/releases/releases/download/trans-box-v1.0.0/Trans-Box.1.0.0.zip"
+ },
+ "desert-d": {
+  "version": "1.0.0",
+  "url": "https://github.com/desert-moon-audio/releases/releases/download/desert-d-v1.0.0/Desert.D.1.0.0.zip"
  }
 }
