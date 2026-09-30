@@ -58,5 +58,9 @@
  "desert-d": {
   "version": "1.0.1",
   "url": "https://github.com/desert-moon-audio/releases/releases/download/desert-d-v1.0.1/Desert.D.1.0.1.zip"
+ },
+ "rhyth-o-matic": {
+  "version": "1.0.0",
+  "url": "https://github.com/desert-moon-audio/releases/releases/download/rhyth-o-matic-v1.0.0/Rhyth-O-Matic.1.0.0.zip"
  }
 }
