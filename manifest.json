@@ -62,5 +62,9 @@
  "rhyth-o-matic": {
   "version": "1.0.0",
   "url": "https://github.com/desert-moon-audio/releases/releases/download/rhyth-o-matic-v1.0.0/Rhyth-O-Matic.1.0.0.zip"
+ },
+ "woody": {
+  "version": "1.0.0",
+  "url": "https://github.com/desert-moon-audio/releases/releases/download/woody-v1.0.0/Woody.1.0.0.zip"
  }
 }
