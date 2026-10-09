@@ -66,5 +66,9 @@
  "woody": {
   "version": "1.0.3",
   "url": "https://github.com/desert-moon-audio/releases/releases/download/woody-v1.0.3/Woody.1.0.3.zip"
+ },
+ "locomotion": {
+  "version": "1.0.0",
+  "url": "https://github.com/desert-moon-audio/releases/releases/download/locomotion-v1.0.0/Locomotion.1.0.0.zip"
  }
 }
