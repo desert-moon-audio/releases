@@ -74,5 +74,9 @@
  "tubeclip": {
   "version": "1.0.2",
   "url": "https://github.com/desert-moon-audio/releases/releases/download/tubeclip-v1.0.2/TubeClip.1.0.2.zip"
+ },
+ "poet": {
+  "version": "1.0.0",
+  "url": "https://github.com/desert-moon-audio/releases/releases/download/poet-v1.0.0/Poet.1.0.0.zip"
  }
 }
