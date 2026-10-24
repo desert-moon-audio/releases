@@ -78,5 +78,9 @@
  "poet": {
   "version": "1.0.0",
   "url": "https://github.com/desert-moon-audio/releases/releases/download/poet-v1.0.0/Poet.1.0.0.zip"
+ },
+ "trisonic": {
+  "version": "1.0.0",
+  "url": "https://github.com/desert-moon-audio/releases/releases/download/trisonic-v1.0.0/Tri-Sonic.1.0.0.zip"
  }
 }
