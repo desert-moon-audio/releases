@@ -82,5 +82,9 @@
  "trisonic": {
   "version": "1.0.0",
   "url": "https://github.com/desert-moon-audio/releases/releases/download/trisonic-v1.0.0/Tri-Sonic.1.0.0.zip"
+ },
+ "multivoice": {
+  "version": "1.0.0",
+  "url": "https://github.com/desert-moon-audio/releases/releases/download/multivoice-v1.0.0/Multivoice.1.0.0.zip"
  }
 }
