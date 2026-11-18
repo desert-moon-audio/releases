@@ -86,5 +86,9 @@
  "multivoice": {
   "version": "1.0.1",
   "url": "https://github.com/desert-moon-audio/releases/releases/download/multivoice-v1.0.1/Multivoice.1.0.1.zip"
+ },
+ "blackmagic": {
+  "version": "1.0.0",
+  "url": "https://github.com/desert-moon-audio/releases/releases/download/blackmagic-v1.0.0/Black.Magic.1.0.0.zip"
  }
 }
